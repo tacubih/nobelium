@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'The Lost Cup',
+  title: 'The Lost Cups',
   author: 'Cups',
   email: 'i@craigary.net',
   link: 'https://nobelium.vercel.app',
